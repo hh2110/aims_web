@@ -1,4 +1,6 @@
-## Abaseen Insitute of Medical Sciences
+---
+title: Abaseen Institute of Medical Sciences
+---
 
 We are a UK-based charity supporting the projects of AIMS-PK in Pakistan. 
 These projects include a non-profit Diabetes Hospital and a community 
