@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Abaseen Institute of Medical Sciences
 ---
 
