@@ -136,16 +136,19 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/hikmatyar-hasan-689805bb/"
+      # url: "https://www.linkedin.com/in/hikmatyar-hasan-689805bb/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hh2110"
+      # url: "https://github.com/hh2110"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "www.facebook.com/diabeteshospitalpeshawar"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:aims.uk.charity@gmail.com
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
