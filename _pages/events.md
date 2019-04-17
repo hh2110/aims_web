@@ -1,8 +1,8 @@
 ---
 title: "Events"
-author_profile: false
+author_profile: true
 permalink: /events/
 header:
-  image: "/images/desktop_about.jpg"
+  image: "/images/desktop_events.jpg"
 ---
 

@@ -106,8 +106,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hikmat Hasan"
-  avatar           : "-"
+  name             : "-"
+  avatar           : "/images/profile_pic.jpg"
   bio              : "-"
   location         : "-"
   email            :
@@ -120,13 +120,13 @@ author:
       # url: "https://your-website.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/hikmatyar-hasan-689805bb/"
+      #url: "https://www.linkedin.com/in/hikmatyar-hasan-689805bb/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hh2110"
+      # url: "https://github.com/hh2110"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -145,7 +145,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "www.facebook.com/diabeteshospitalpeshawar"
+      url: "https://www.facebook.com/diabeteshospitalpeshawar/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:aims.uk.charity@gmail.com
